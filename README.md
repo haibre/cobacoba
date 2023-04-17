@@ -1,2 +1,2 @@
 # cobacoba 
-ini adalah percobaan untuk cloning github
+ini adalah percobaan
